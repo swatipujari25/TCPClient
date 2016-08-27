@@ -1,0 +1,16 @@
+D:\Swati\PIS GPRS\Server MultiClient\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+D:\Swati\PIS GPRS\Server MultiClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\Swati\PIS GPRS\Server MultiClient\TCPClient\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Swati\PIS GPRS\Server MultiClient\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+D:\Swati\PIS GPRS\Server MultiClient\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\Swati\PIS GPRS\Server MultiClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+D:\Swati\PIS GPRS\Server MultiClient\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+D:\Swati\PIS GPRS\Server MultiClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+D:\Swati\PIS GPRS\Server MultiClient\TCPClient1\TCPClient\bin\Debug\TCPClient.exe
+D:\Swati\PIS GPRS\Server MultiClient\TCPClient1\TCPClient\bin\Debug\TCPClient.pdb
+D:\Swati\PIS GPRS\Server MultiClient\TCPClient1\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Swati\PIS GPRS\Server MultiClient\TCPClient1\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\Swati\PIS GPRS\Server MultiClient\TCPClient1\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+D:\Swati\PIS GPRS\Server MultiClient\TCPClient1\TCPClient\obj\Debug\TCPClient.exe
+D:\Swati\PIS GPRS\Server MultiClient\TCPClient1\TCPClient\obj\Debug\TCPClient.pdb
+D:\Swati\PIS GPRS\Server MultiClient\TCPClient1\TCPClient\obj\Debug\TCPClient.Client.resources
